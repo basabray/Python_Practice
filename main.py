@@ -1,5 +1,6 @@
-def main():
-	print("Hello World")
+from my_input_output import inputOutput
 
-if __name__=="__main__":
-	main()
+print("Hello World")
+
+inputOutput()
+
